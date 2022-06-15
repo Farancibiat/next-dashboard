@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import useFetch from '@hooks/usefetch';
+import useFetch from '@hooks/useFetch';
 import endPoints from '@services/api';
 import Paginator from '@common/Paginate';
 import { Chart } from '@common/Chart';
